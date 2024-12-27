@@ -1,6 +1,6 @@
 package org.example.deploy_maven_repository_pages
 
-class Main {
+class Hello {
 
     companion object {
 
